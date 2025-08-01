@@ -24,7 +24,7 @@ signature:
   params: null
 utc_time_created: '2024-09-27 00:51:53.191138'
 metadata:
-  azureml.base_image: mcr.microsoft.com/azureml/curated/mlflow-model-inference:1
+  azureml.base_image: mcr.microsoft.com/azureml/curated/mlflow-model-inference:5
   base_model_name: MedImgeParse
   base_model_task: image-segmentation
   is_acft_model: true
